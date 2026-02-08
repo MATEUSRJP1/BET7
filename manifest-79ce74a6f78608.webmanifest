@@ -1,0 +1,108 @@
+{
+  "name": "7k.bet.br",
+  "short_name": "7k.bet.br",
+  "gcm_sender_id": "103953800507",
+  "packageId": "br.bet.k.twa",
+  "id": "https://7k.bet.br/",
+  "description": "7k.bet.br tem as melhores apostas online e jogos de cassino virtual para você se divertir. Curta nosso site para ter o melhor do entretenimento em jogos de futebol, basquete, tênis, e-sports é muito mais. Aposte para ganhar nos melhores jogos de cassino disponível no mercado de iGaming.",
+  "start_url": "https://7k.bet.br/?app_source=app&standalone=true&v=deploy-ff9defc8407cf6cbc643b27afbb0c6fb988b7502-b2e047cdc69151306e64",
+  "scope": "https://7k.bet.br/",
+  "display": "fullscreen",
+  "display_override": [
+    "standalone",
+    "minimal-ui",
+    "fullscreen",
+    "browser",
+    "window-controls-overlay"
+  ],
+  "background_color": "#212425",
+  "theme_color": "#323637",
+  "lang": "pt-br",
+  "dir": "ltr",
+  "orientation": "portrait",
+  "categories": ["business", "finance", "games", "sports"],
+  "icons": [
+    {
+      "src": "https://static.7k.bet.br/public-assets/pwa-64x64.png?v=deploy-ff9defc8407cf6cbc643b27afbb0c6fb988b7502-b2e047cdc69151306e64",
+      "sizes": "64x64",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://static.7k.bet.br/public-assets/pwa-96x96.png?v=deploy-ff9defc8407cf6cbc643b27afbb0c6fb988b7502-b2e047cdc69151306e64",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://static.7k.bet.br/public-assets/pwa-120x120.png?v=deploy-ff9defc8407cf6cbc643b27afbb0c6fb988b7502-b2e047cdc69151306e64",
+      "sizes": "120x120",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://static.7k.bet.br/public-assets/pwa-144x144.png?v=deploy-ff9defc8407cf6cbc643b27afbb0c6fb988b7502-b2e047cdc69151306e64",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://static.7k.bet.br/public-assets/pwa-152x152.png?v=deploy-ff9defc8407cf6cbc643b27afbb0c6fb988b7502-b2e047cdc69151306e64",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://static.7k.bet.br/public-assets/pwa-192x192.png?v=deploy-ff9defc8407cf6cbc643b27afbb0c6fb988b7502-b2e047cdc69151306e64",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://static.7k.bet.br/public-assets/pwa-384x384.png?v=deploy-ff9defc8407cf6cbc643b27afbb0c6fb988b7502-b2e047cdc69151306e64",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://static.7k.bet.br/public-assets/pwa-512x512.png?v=deploy-ff9defc8407cf6cbc643b27afbb0c6fb988b7502-b2e047cdc69151306e64",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "7k.bet.br",
+      "short_name": "7k.bet.br",
+      "url": "https://7k.bet.br",
+      "description": "7k.bet.br tem as melhores apostas online e jogos de cassino virtual para você se divertir.",
+      "icons": [
+        {
+          "src": "https://static.7k.bet.br/public-assets/pwa-96x96.png?v=deploy-ff9defc8407cf6cbc643b27afbb0c6fb988b7502-b2e047cdc69151306e64",
+          "sizes": "96x96"
+        },
+        {
+          "src": "https://static.7k.bet.br/public-assets/pwa-512x512.png?v=deploy-ff9defc8407cf6cbc643b27afbb0c6fb988b7502-b2e047cdc69151306e64",
+          "sizes": "512x512"
+        }
+      ]
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://static.7k.bet.br/public-assets/pwa-512x512.png?v=deploy-ff9defc8407cf6cbc643b27afbb0c6fb988b7502-b2e047cdc69151306e64",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "7k.bet.br"
+    },
+    {
+      "src": "https://static.7k.bet.br/public-assets/pwa-512x512.png?v=deploy-ff9defc8407cf6cbc643b27afbb0c6fb988b7502-b2e047cdc69151306e64",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "7k.bet.br"
+    }
+  ]
+}
